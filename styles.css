@@ -1,0 +1,22 @@
+table, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.sl{
+    width:250px
+;
+}
+.cic{
+    width: 13px;
+    text-align: center;
+}
+.green{
+    background-color: #aef3ae;
+}
+.blue{
+background-color: #5c93ef;
+
+}
+.grey{
+background-color:lightgray;
+}
